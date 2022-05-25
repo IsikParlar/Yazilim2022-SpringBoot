@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.medipol.yazilimaraclari.RestAPIOrnek1.RestApiOrnek1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.263 s - in com.medipol.yazilimaraclari.RestAPIOrnek1.RestApiOrnek1ApplicationTests
